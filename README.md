@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carlz-tm
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Responsive Web Design
-- 💞️ I’m looking to collaborate on basic Responsive Web Design
+- 💞️ I’m looking to collaborate on basic Responsive Web Design Project
 - 📫 How to reach me ... https://codepen.io/carlz-tm </br> peacefulwithu@gmail.com
 
 <!---
